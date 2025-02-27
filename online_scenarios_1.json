@@ -5,6 +5,12 @@
       "type": "url",
       "name": "frontol",
       "id_scenarios": 1
+    },
+    {
+      "id": 2,
+      "type": "click",
+      "name": "btn2u",
+      "id_scenarios": 2
     }
   ]
 }
